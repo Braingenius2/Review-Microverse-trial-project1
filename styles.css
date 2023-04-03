@@ -1,0 +1,11 @@
+#main{
+    margin: 30px 8px;
+    background:#eee
+  }
+  
+  #image{
+  max-width:100%;
+  height:auto;
+  margin:auto 0;
+  display:block;
+  }
